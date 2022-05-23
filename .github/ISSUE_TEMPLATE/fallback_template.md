@@ -1,5 +1,5 @@
 ---
-name: Questions
+name: Ask a question
 about: Have a question? Is this a feature or a bug? Starts here.
 title: "[QUESTION] "
 labels: question
