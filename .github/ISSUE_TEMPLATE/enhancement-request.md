@@ -1,6 +1,6 @@
 ---
-name: Feature Enhancement request
-about: Wants improvement in working, existing feature? Starts here.
+name: Request an improvement
+about: Wants enhancement in a working, existing feature? Starts here.
 title: "[ENHANCEMENT] "
 labels: enhancement
 assignees: ''
